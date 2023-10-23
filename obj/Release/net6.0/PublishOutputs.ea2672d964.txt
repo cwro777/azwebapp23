@@ -1,0 +1,7 @@
+C:\노철우교수\azurework\bin\Release\net6.0\publish\azurework.exe
+C:\노철우교수\azurework\bin\Release\net6.0\publish\appsettings.Development.json
+C:\노철우교수\azurework\bin\Release\net6.0\publish\appsettings.json
+C:\노철우교수\azurework\bin\Release\net6.0\publish\azurework.dll
+C:\노철우교수\azurework\bin\Release\net6.0\publish\azurework.deps.json
+C:\노철우교수\azurework\bin\Release\net6.0\publish\azurework.runtimeconfig.json
+C:\노철우교수\azurework\bin\Release\net6.0\publish\azurework.pdb

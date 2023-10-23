@@ -1,0 +1,2 @@
+C:\노철우교수\azurework\bin\Debug\net6.0\azurework.exe
+C:\노철우교수\azurework\bin\Debug\net6.0\azurework.dll
